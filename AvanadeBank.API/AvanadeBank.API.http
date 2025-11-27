@@ -1,0 +1,6 @@
+@AvanadeBank.API_HostAddress = http://localhost:5243
+
+GET {{AvanadeBank.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
